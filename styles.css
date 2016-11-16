@@ -1,0 +1,51 @@
+
+body {
+  background-color: #9fdfbe;
+}
+
+
+
+h1 {
+  text-align: center;
+  font-family: Verdana, Geneva, sans-serif;
+  color: #4d805e;
+}
+
+
+ul {
+  text-align: center;
+  list-style-type: none;
+  padding-left: 0;
+}
+
+ul li {
+  text-align: center;
+  margin-right: 1rem;
+  display: inline;
+  width: 20%;
+  padding: 1rem 0;
+
+}
+
+
+ul li a {
+  font-size: 2rem;
+  font-family: Helvetica, sans-serif;
+  color: #4d805e;
+  text-decoration: none;
+  padding: .25rem;
+}
+
+
+li a:hover {
+  color: #7070a9;
+}
+
+li:hover {
+  background-color: #afafcf;
+}
+
+li:active {
+  padding: 1rem 5px;
+  background-color:  #cfafbf;
+}
