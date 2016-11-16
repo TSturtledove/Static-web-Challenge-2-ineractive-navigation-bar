@@ -15,13 +15,13 @@ h1 {
 ul {
   display: flex;
   justify-content: center;
+  list-style-type: none;
   padding-left: 0;
 }
 
 ul li {
   text-align: center;
   margin-right: 1rem;
-  display: inline;
   width: 20%;
   padding: 1rem 0;
 
